@@ -12,3 +12,16 @@
 > So, you have done all stuff this moment. Then, all you have to do is just clicking the "开始下载" button. 
 ## Something to focus  
 Please make sure your download enviroment before getting the video
+
+# 流程
+* 加载界面并初始化
+* 输入
+  * 输入url
+  * 添加输入的url
+* 选择下载项
+* 选择保存位置
+* 下载
+  * 显示下载进度
+  * 下载完成
+  * 保存结果
+*  等待新的输入
